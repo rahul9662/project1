@@ -1,4 +1,2 @@
-FROM centos
-RUN mkdir LOL
-CMD yum update -y
-my name is rahul
+jaiselmer is a desert city
+best nice
