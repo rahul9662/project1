@@ -1,0 +1,4 @@
+FROM centos
+RUN mkdir LOL
+CMD yum update -y
+my name is rahul
